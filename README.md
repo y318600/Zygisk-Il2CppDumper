@@ -59,5 +59,5 @@ Zygisk 版 Il2CppDumper，在游戏运行时 dump il2cpp 数据，可以绕过�
 ---
 
 <p align="center">
-  <sub>Made with ❤️ by <a href="https://github.com/y318600">ZeKang</a></sub>
+  <sub>Made with ❤️ by <a href="https://github.com/y318600">ChenAi</a></sub>
 </p>
