@@ -1,7 +1,7 @@
 # Zygisk-Il2CppDumper
 
-[![License](https://img.shields.io/github/license/y318600/Zygisk-Il2CppDumper?style=flat-square)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/y318600/Zygisk-Il2CppDumper?style=flat-square)](https://github.com/y318600/Zygisk-Il2CppDumper/stargazers)
+[![License](https://img.shields.io/github/license/iChenAi/Zygisk-Il2CppDumper?style=flat-square)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/iChenAi/Zygisk-Il2CppDumper?style=flat-square)](https://github.com/iChenAi/Zygisk-Il2CppDumper/stargazers)
 
 Zygisk 版 Il2CppDumper，在游戏运行时 dump il2cpp 数据，可以绕过保护、加密以及混淆。
 
@@ -41,23 +41,12 @@ Zygisk 版 Il2CppDumper，在游戏运行时 dump il2cpp 数据，可以绕过�
 2. 在 Magisk 中安装生成的模块
 3. 启动游戏，会在 `/data/data/<GamePackageName>/files/` 目录下生成 `dump.cs`
 
-## 📁 项目结构
-
-```
-├── .github/workflows/   # GitHub Actions 构建配置
-├── module/              # Magisk 模块代码
-│   └── src/             # C++ 源码
-├── template/            # 模块模板
-├── build.gradle         # Gradle 构建脚本
-└── settings.gradle      # Gradle 设置
-```
-
 ## 📄 License
 
-本项目基于原始项目的许可证发布。详见 [LICENSE](LICENSE)。
+GPL-3.0 — 详见 [LICENSE](LICENSE)。
 
 ---
 
 <p align="center">
-  <sub>Made with ❤️ by <a href="https://github.com/y318600">ChenAi</a></sub>
+  <sub>Made with ❤️ by <a href="https://github.com/iChenAi">ChenAi</a></sub>
 </p>
